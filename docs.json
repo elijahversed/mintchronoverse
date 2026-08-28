@@ -52,17 +52,17 @@
           {
             "group": "Silver Age Entries",
             "pages": [
-              "comics/silver-age/amazing-fantasy-15",
-              "comics/silver-age/amazing-spider-man-1",
-              "comics/silver-age/amazing-spider-man-33"
+              "amazing-fantasy-15",
+              "amazing-spider-man-1",
+              "amazing-spider-man-33"
             ]
           },
           {
             "group": "Bronze Age Entries",
             "pages": [
-              "comics/bronze-age/drug-storyline",
-              "comics/bronze-age/night-gwen-stacy-died",
-              "comics/bronze-age/first-punisher"
+              "drug-storyline",
+              "night-gwen-stacy-died",
+              "first-punisher"
             ]
           },
           {
