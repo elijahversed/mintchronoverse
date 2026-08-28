@@ -32,9 +32,9 @@
           {
             "group": "Essentials",
             "pages": [
-              "untitled-page-3",
-              "untitled-page-4",
-              "untitled-page-5"
+              "glossary",
+              "how-pages-are-organized",
+              "canon-and-continuity"
             ]
           }
         ]
@@ -42,25 +42,25 @@
       {
         "tab": "Films",
         "pages": [
-          "untitled-page"
+          "film-overview"
         ]
       },
       {
         "tab": "Comics",
         "pages": [
-          "untitled-page-2"
+          "comics-overview"
         ]
       },
       {
         "tab": "Games",
         "pages": [
-          "untitled-page-6"
+          "games-overview"
         ]
       },
       {
         "tab": "Characters",
         "pages": [
-          "untitled-page-7"
+          "characters-overview"
         ]
       }
     ]
