@@ -32,9 +32,9 @@
           {
             "group": "Essentials",
             "pages": [
-              "glossary",
-              "how-pages-are-organized",
-              "canon-and-continuity"
+              "essentials/glossary",
+              "essentials/how-pages-are-organized",
+              "essentials/canon-and-continuity"
             ]
           }
         ]
@@ -42,17 +42,33 @@
       {
         "tab": "Films",
         "pages": [
-          "film-overview"
+          "films/film-overview"
         ]
       },
       {
         "tab": "Comics",
         "pages": [
-          "comics-overview",
+          "comics/comics-overview",
           {
             "group": "Silver Age Entries",
             "pages": [
-              "amazing-fantasy-15"
+              "comics/silver-age/amazing-fantasy-15",
+              "comics/silver-age/amazing-spider-man-1",
+              "comics/silver-age/amazing-spider-man-33"
+            ]
+          },
+          {
+            "group": "Bronze Age Entries",
+            "pages": [
+              "comics/bronze-age/drug-storyline",
+              "comics/bronze-age/night-gwen-stacy-died",
+              "comics/bronze-age/first-punisher"
+            ]
+          },
+          {
+            "group": "Modern Age Entries",
+            "pages": [
+              "comics/modern-age/kravens-last-hunt"
             ]
           }
         ]
