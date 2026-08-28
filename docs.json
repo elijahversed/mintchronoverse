@@ -48,7 +48,13 @@
       {
         "tab": "Comics",
         "pages": [
-          "comics-overview"
+          "comics-overview",
+          {
+            "group": "Silver Age Entries",
+            "pages": [
+              "amazing-fantasy-15"
+            ]
+          }
         ]
       },
       {
